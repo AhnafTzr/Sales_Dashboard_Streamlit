@@ -7,4 +7,4 @@
 
 **Description:**
 
-This is a basic Sales Dashboard visualization from Suoermarket Sales data presented as a Data Application. [To view the deployed app, please click here](https://share.streamlit.io/ahnaftzr/stock_price_basic_visuals/main/Simple_Stock_Price.py) 
+This is a basic Sales Dashboard visualization from Suoermarket Sales data presented as a Data Application. [To view the deployed app, please click here](https://share.streamlit.io/ahnaftzr/sales_dashboard_streamlit/main/VisApp01.py) 
